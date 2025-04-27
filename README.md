@@ -18,5 +18,5 @@ These projects taught me to think carefully about data structure choices early i
 I improved in writing modular, organized code that is easier to extend and debug. I’ve also developed better commenting habits to make the code understandable for future readers, including myself.
 
 ## Included Artifacts
-- `ProjectOne_Analysis.docx` – Analysis of runtime and memory for data structures
+- `6-2 Submit Project One.docx` – Analysis of runtime and memory for data structures
 - `ProjectTwo.cpp` – Working C++ code for sorting and printing the Computer Science course list
